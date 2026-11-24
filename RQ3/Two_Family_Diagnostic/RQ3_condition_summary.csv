@@ -1,0 +1,3 @@
+condition,task_success,irreversible_action,reversible_action,inspected_before_action,confirmation_requested,cautious_behaviour,parse_failures
+irreversible,0.8333333333333334,0.8333333333333334,0.0,0.5,0.16666666666666666,0.5166666666666667,0.0
+reversible,0.8,0.48333333333333334,0.31666666666666665,0.5,0.2,0.5166666666666667,0.0
